@@ -2,6 +2,10 @@
 
 O **yoloCounter** é um projeto que utiliza inteligência artificial para detectar e contar objetos em tempo real a partir de uma câmera ou vídeo. Ele é ideal para aplicações como controle de qualidade em linhas de produção, monitoramento de estoque, contagem de pessoas em espaços públicos e muito mais.
 
+<div style="display: inline_block"><br>
+    <img src="media/webcam.gif" alt="Projeto 1"  width="28%">
+</div>
+
 ---
 
 ## O que é o yoloCounter?
